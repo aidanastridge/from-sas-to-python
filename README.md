@@ -7,5 +7,6 @@ All of these previous analyses were done in SAS. I transitioned them over to Pyt
 - Lab3: Hypothesis testing on Canadian NHPI 
 - Lab4: Hypothesis testing and regression analysis on Canadian NHPI
 - Lab5: Logistic regression analysis on admission estimation to Business or Law School
+- Lab6: After-tax income detrending
 
 
