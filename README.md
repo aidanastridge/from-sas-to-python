@@ -10,6 +10,6 @@ All of these previous analyses were done in SAS. I transitioned them over to Pyt
 - Lab6: After-tax income detrending
 - Lab7: ARIMA on Composite HPI
 - Lab8: First differenced bond regression with ARIMA residuals
-- Lab9: GARCH on Intel Return
+- Lab9: GARCH on Intel return
 
 
