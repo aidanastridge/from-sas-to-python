@@ -2,6 +2,8 @@
 
 All of these previous analyses were done in SAS. I transitioned them over to Python to practice the language.
 
+Jupiter:
+
 - Lab1: Exploratory data analysis on loans
 - Lab2: Hypothesis testing and regression analysis on loans
 - Lab3: Hypothesis testing on Canadian NHPI 
