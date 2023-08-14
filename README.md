@@ -1,5 +1,5 @@
 ![SAS and Python logos](https://github.com/aidanastridge/from-sas-to-python/blob/main/sas_python_banner.png)
-# From SAS to Python
+# 🐍 From SAS to Python
 
 All of these previous analyses were done in SAS. I transitioned them over to Python to practice the language.
 
