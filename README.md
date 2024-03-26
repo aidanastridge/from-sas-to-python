@@ -22,5 +22,3 @@ SAS transferred:
 - Lab4: Hypothesis testing and regression analysis on Canadian NHPI
 - Lab5: Logistic regression analysis on admission estimation to Business or Law School
 
-Bonus SAS:
-
